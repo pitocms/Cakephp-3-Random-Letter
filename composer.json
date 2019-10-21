@@ -1,0 +1,18 @@
+{
+    "name": "alimon/cakephp-random-letter",
+    "description": "cakephp 3 random letter plugin",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alimon",
+            "email": "pitocms@yahoo.com"
+        }
+    ],
+    "autoload":{
+    	"psr-4": {
+    		"RandomLetter\\": "src/"
+    	}
+    },
+    "require": {}
+}
